@@ -2,8 +2,11 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic;
 using System.Security.Claims;
 using TareasMVC.Models;
+using TareasMVC.Servicios;
 
 namespace TareasMVC.Controllers
 {
@@ -180,12 +183,51 @@ namespace TareasMVC.Controllers
 
         }
 
+        [HttpGet]
+        [Authorize(Roles =Constantes.RolAdmin)]
+        public async Task<IActionResult> Listado(string mensaje = null)
+        {
+            var usuarios = await context.Users.Select(x=>new UsuarioViewModel
+            {
+                Email = x.Email
+            }).ToListAsync();
 
+            var modelo = new UsuariosListadoViewModel();
+            modelo.Usuarios = usuarios;
+            modelo.Mensaje = mensaje;
 
+            return View(modelo);
+        }
 
+        [HttpPost]
+        [Authorize(Roles = Constantes.RolAdmin)]
+        public async Task<IActionResult> HacerAdmin(string email)
+        {
+            var usuario = await context.Users.Where(x => x.Email == email).FirstOrDefaultAsync();
+            if (usuario is null)
+            {
+                return NotFound();
+            }
+            
+            await userManager.AddToRoleAsync(usuario, Constantes.RolAdmin);
 
+            return RedirectToAction("Listado", routeValues: new {mensaje="Rol asignado correctamente a " + email} );
+        }
 
+        [HttpPost]
+        [Authorize(Roles = Constantes.RolAdmin)]
+        public async Task<IActionResult> RemoverAdmin(string email)
+        {
+            var usuario = await context.Users.Where(x => x.Email == email).FirstOrDefaultAsync();
+            if (usuario is null)
+            {
+                return NotFound();
+            }
 
+            await userManager.RemoveFromRoleAsync(usuario, Constantes.RolAdmin);
+
+            return RedirectToAction("Listado", routeValues: new { mensaje = "Rol removido correctamente a " + email });
+        }
 
 
     }

@@ -10,6 +10,10 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\TareasMVC.pdb
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -30,6 +34,8 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Exte
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -147,6 +153,7 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.cspr
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.RazorAssemblyInfo.cache
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.RazorAssemblyInfo.cs
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.sourcelink.json
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\scopedcss\bundle\TareasMVC.styles.css
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\scopedcss\projectbundle\TareasMVC.bundle.scp.css
@@ -230,9 +237,3 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\refint\TareasM
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.pdb
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.genruntimeconfig.cache
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\obj\Debug\net9.0\ref\TareasMVC.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
