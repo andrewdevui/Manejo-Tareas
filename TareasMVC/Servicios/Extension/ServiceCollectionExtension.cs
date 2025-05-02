@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Razor;
 
 namespace TareasMVC.Services.Extension
 {
@@ -18,6 +19,10 @@ namespace TareasMVC.Services.Extension
             services.AddControllersWithViews(opciones =>
             {
                 opciones.Filters.Add(new AuthorizeFilter(politicaUsuariosAutenticados));
+            }).AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
+            .AddDataAnnotationsLocalization(opciones =>
+            {
+                opciones.DataAnnotationLocalizerProvider = (_, factoria) => factoria.Create(typeof(RecursoCompartido));
             });
 
             services.AddDbContext<AplicationDbContext>(options =>
@@ -38,6 +43,11 @@ namespace TareasMVC.Services.Extension
             {
                 opciones.LoginPath = "/Usuarios/Login";
                 opciones.AccessDeniedPath = "/Usuarios/Login";
+            });
+
+            services.AddLocalization(opciones =>
+            {
+                opciones.ResourcesPath = "Recursos";
             });
 
             return services;

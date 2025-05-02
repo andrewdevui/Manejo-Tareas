@@ -1,10 +1,19 @@
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
 using TareasMVC.Services.Extension;
+using TareasMVC.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMyServices(builder.Configuration);
 
 var app = builder.Build();
+
+app.UseRequestLocalization(opciones =>
+{
+    opciones.DefaultRequestCulture = new RequestCulture("es");  // ESTA ES LA CULTURA POR DEFECTO.
+    opciones.SupportedUICultures = Constantes.CulturasUISoportadas.Select(cultura => new CultureInfo(cultura.Value)).ToList();
+});
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -58,11 +58,13 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\css\
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\favicon.ico
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\js\utilidades.js
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
+wwwroot\js\utilidades.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
