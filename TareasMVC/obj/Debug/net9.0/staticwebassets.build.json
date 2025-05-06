@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ey8zyRXcPuJRR5Ki4xeP2ixulAkK0XPlXP0/67rVKlI=",
+  "Hash": "wp5GDK79Cu436Y899/axqnnuuHUcXPzEn/ZPbUnJhVc=",
   "Source": "TareasMVC",
   "BasePath": "_content/TareasMVC",
   "Mode": "Default",
@@ -624,6 +624,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "js/tareas#[.{fingerprint=4duk86qlnc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hsy0727v4r",
+      "Integrity": "IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\glkehdeena-63fj8s7r0e.gz",
@@ -1298,12 +1319,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-hvvnn9u77c.gz",
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TareasMVC",
-      "RelativePath": "js/utilidades#[.{fingerprint=hvvnn9u77c}]?.js.gz",
+      "RelativePath": "js/utilidades#[.{fingerprint=t2uj3teh7v}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1312,8 +1333,8 @@
       "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r7pf5c6hqw",
-      "Integrity": "Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A=",
+      "Fingerprint": "mej4um9tm8",
+      "Integrity": "PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js"
@@ -1487,6 +1508,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "js/tareas#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4duk86qlnc",
+      "Integrity": "SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tareas.js"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -1501,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hvvnn9u77c",
-      "Integrity": "HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM=",
+      "Fingerprint": "t2uj3teh7v",
+      "Integrity": "+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\utilidades.js"
@@ -3664,13 +3706,13 @@
       ]
     },
     {
-      "Route": "js/utilidades.hvvnn9u77c.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-hvvnn9u77c.gz",
+      "Route": "js/tareas.4duk86qlnc.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.013333333333"
+          "Quality": "0.002032520325"
         }
       ],
       "ResponseHeaders": [
@@ -3680,15 +3722,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74"
+          "Value": "491"
         },
         {
           "Name": "ETag",
-          "Value": "\"Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A=\""
+          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3708,26 +3750,316 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM=\""
+          "Value": "W/\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hvvnn9u77c"
+          "Value": "4duk86qlnc"
         },
         {
           "Name": "label",
-          "Value": "js/utilidades.js"
+          "Value": "js/tareas.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM="
+          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
         }
       ]
     },
     {
-      "Route": "js/utilidades.hvvnn9u77c.js",
+      "Route": "js/tareas.4duk86qlnc.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4duk86qlnc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tareas.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.4duk86qlnc.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4duk86qlnc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tareas.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI="
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004132231405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js",
       "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3737,7 +4069,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "59"
+          "Value": "500"
         },
         {
           "Name": "Content-Type",
@@ -3745,11 +4077,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM=\""
+          "Value": "\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.t2uj3teh7v.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004132231405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2uj3teh7v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utilidades.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.t2uj3teh7v.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3759,7 +4236,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hvvnn9u77c"
+          "Value": "t2uj3teh7v"
         },
         {
           "Name": "label",
@@ -3767,13 +4244,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM="
+          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
         }
       ]
     },
     {
-      "Route": "js/utilidades.hvvnn9u77c.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-hvvnn9u77c.gz",
+      "Route": "js/utilidades.t2uj3teh7v.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3782,7 +4259,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74"
+          "Value": "241"
         },
         {
           "Name": "Content-Type",
@@ -3790,11 +4267,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A=\""
+          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
+          "Value": "Mon, 05 May 2025 22:30:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3812,7 +4289,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hvvnn9u77c"
+          "Value": "t2uj3teh7v"
         },
         {
           "Name": "label",
@@ -3820,144 +4297,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-hvvnn9u77c.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.013333333333"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HdwcGbcbCI5+PGkm6UNP3bnhShqggvcK+Zj0SqEQmoM="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-hvvnn9u77c.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 23:49:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z6JR6LnmQh8U+j/mikend7Kn9VG8P1hE0txPl9Qxs3A="
+          "Value": "sha256-PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg="
         }
       ]
     },

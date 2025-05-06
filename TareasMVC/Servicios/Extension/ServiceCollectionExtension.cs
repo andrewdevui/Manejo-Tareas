@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Razor;
+using TareasMVC.Servicios;
 
 namespace TareasMVC.Services.Extension
 {
@@ -49,6 +50,9 @@ namespace TareasMVC.Services.Extension
             {
                 opciones.ResourcesPath = "Recursos";
             });
+
+            services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
+            services.AddAutoMapper(typeof(Program));
 
             return services;
         }
