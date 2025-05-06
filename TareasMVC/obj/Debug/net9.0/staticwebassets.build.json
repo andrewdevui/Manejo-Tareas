@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wp5GDK79Cu436Y899/axqnnuuHUcXPzEn/ZPbUnJhVc=",
+  "Hash": "Y3nnwyKoBmcf//C1sK1EARfX+JMJOXK21a8VimQGe4c=",
   "Source": "TareasMVC",
   "BasePath": "_content/TareasMVC",
   "Mode": "Default",
@@ -206,6 +206,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4hjrvm41cv-2jvjnlz339.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/index#[.{fingerprint=2jvjnlz339}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yk0dip02sq",
+      "Integrity": "zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\index.html"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4xileg1q62-vr1egmr9el.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -227,12 +248,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-9wl41ft15j.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TareasMVC",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=9wl41ft15j}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,8 +262,8 @@
       "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "mpdrjwitrp",
+      "Integrity": "1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\css\\site.css"
@@ -416,6 +437,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\9na5au9k8p-s0k6h7qcks.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.theme#[.{fingerprint=s0k6h7qcks}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4i6hzts0oh",
+      "Integrity": "LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\a0loui79p1-rzd6atqjts.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -584,6 +626,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\f170r2hv1e-72bi5bmqwh.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/AUTHORS#[.{fingerprint=72bi5bmqwh}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "od7fcru2hk",
+      "Integrity": "HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\feihmw0mjb-bqjiyaj88i.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -603,6 +666,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\ft63vn7281-if5udyg90s.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.min#[.{fingerprint=if5udyg90s}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q9aojuxc8t",
+      "Integrity": "AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fy5h4puppg-nvvlpmu67g.gz",
@@ -626,12 +710,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-j03r8wjojk.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TareasMVC",
-      "RelativePath": "js/tareas#[.{fingerprint=4duk86qlnc}]?.js.gz",
+      "RelativePath": "js/tareas#[.{fingerprint=j03r8wjojk}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -640,11 +724,53 @@
       "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hsy0727v4r",
-      "Integrity": "IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=",
+      "Fingerprint": "05ef2o8b1d",
+      "Integrity": "rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g58hysslzr-xmuqfn50qh.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.structure#[.{fingerprint=xmuqfn50qh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bldm9u690s",
+      "Integrity": "T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g98zedj86f-0avc6en0p3.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.structure.min#[.{fingerprint=0avc6en0p3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rtvcbpj3n3",
+      "Integrity": "HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\glkehdeena-63fj8s7r0e.gz",
@@ -836,6 +962,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\k7ayp1cngy-mtq9ih5pls.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/LICENSE#[.{fingerprint=mtq9ih5pls}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hjos5qh849",
+      "Integrity": "PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\LICENSE.txt"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\kqqbzf3gs8-aexeepp0ev.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -855,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\mc78zdeeyw-nr5zftr3vh.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui#[.{fingerprint=nr5zftr3vh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "10lx26th2o",
+      "Integrity": "kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.css"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\n9api645wb-37tfw0ft22.gz",
@@ -1023,6 +1191,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\pu4h4a42g8-qaocao8vyd.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/package#[.{fingerprint=qaocao8vyd}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\package.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "78czxnt9tn",
+      "Integrity": "p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\package.json"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\q8bqwt1y3d-c2jlpeoesf.gz",
@@ -1256,6 +1445,27 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\tuls9r0zjq-3de1nhugwi.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui#[.{fingerprint=3de1nhugwi}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "c3kjk2ue22",
+      "Integrity": "iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\u954lq78bs-j5mq2jizvt.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -1319,12 +1529,33 @@
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\y2ivvo2u7e-xlfsqd798a.gz",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TareasMVC",
-      "RelativePath": "js/utilidades#[.{fingerprint=t2uj3teh7v}]?.js.gz",
+      "RelativePath": "lib/jquery-ui/jquery-ui.min#[.{fingerprint=xlfsqd798a}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5fz0fyjon6",
+      "Integrity": "URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-9dyvseyn2g.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "js/utilidades#[.{fingerprint=9dyvseyn2g}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1333,8 +1564,8 @@
       "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mej4um9tm8",
-      "Integrity": "PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=",
+      "Fingerprint": "8w16vdfux4",
+      "Integrity": "6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js"
@@ -1359,6 +1590,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yobqfdnxvu-8kjarcocxj.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.theme.min#[.{fingerprint=8kjarcocxj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fuym73yq4k",
+      "Integrity": "GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yslchhgus8-usgneagjxl.gz",
@@ -1401,6 +1653,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\zu7gk83at9-0i3buxo5is.gz",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/external/jquery/jquery#[.{fingerprint=0i3buxo5is}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v75tr20pas",
+      "Integrity": "q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js"
     },
     {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TareasMVC.styles.css",
@@ -1459,8 +1732,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "9wl41ft15j",
+      "Integrity": "J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1522,8 +1795,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4duk86qlnc",
-      "Integrity": "SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=",
+      "Fingerprint": "j03r8wjojk",
+      "Integrity": "AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tareas.js"
@@ -1543,8 +1816,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t2uj3teh7v",
-      "Integrity": "+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=",
+      "Fingerprint": "9dyvseyn2g",
+      "Integrity": "vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\utilidades.js"
@@ -2642,6 +2915,405 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/AUTHORS#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "72bi5bmqwh",
+      "Integrity": "geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\AUTHORS.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/external/jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i3buxo5is",
+      "Integrity": "eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_444444_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ut8nfkxbao",
+      "Integrity": "jmTiXil6x3D/CHk8wOFXmTd0pX0pkL7CHEoZGDjDsD8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_555555_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxblgf7gh6",
+      "Integrity": "S7SAoCWRIFHhtJUmtILm35bW5c5XoJzAJHB1BymutlY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_777620_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibfjxm80uw",
+      "Integrity": "stIDtevUl3/YDzzX50pmD1KUQ5Ygr4Qf1mcAXth5i9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_777777_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9pllrf5noz",
+      "Integrity": "4/cVCTlwyRuiyvZ9ZyZ5+tnUcgBBFx88uhJdE+TO1tc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_cc0000_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fapn45i1fp",
+      "Integrity": "x/fMbNPyGm4e1pbDDczRJW+nARxbL/1UQoUTrE8EuoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/images/ui-icons_ffffff_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l6as84sroo",
+      "Integrity": "jTrat+ojs+EgNdn8x2+3nTJNFGErS5NQQTo4b/semhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\index.html",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2jvjnlz339",
+      "Integrity": "ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nr5zftr3vh",
+      "Integrity": "83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3de1nhugwi",
+      "Integrity": "9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlfsqd798a",
+      "Integrity": "BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "if5udyg90s",
+      "Integrity": "AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.structure#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xmuqfn50qh",
+      "Integrity": "Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.structure.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0avc6en0p3",
+      "Integrity": "WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0k6h7qcks",
+      "Integrity": "JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/jquery-ui.theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8kjarcocxj",
+      "Integrity": "eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mtq9ih5pls",
+      "Integrity": "9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\package.json",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "lib/jquery-ui/package#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qaocao8vyd",
+      "Integrity": "AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\package.json"
+    },
+    {
       "Identity": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -2812,13 +3484,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-b9sayid5wm.gz",
+      "Route": "css/site.9wl41ft15j.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-9wl41ft15j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002816901408"
         }
       ],
       "ResponseHeaders": [
@@ -2828,15 +3500,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "354"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2856,13 +3528,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9wl41ft15j"
         },
         {
           "Name": "label",
@@ -2870,12 +3542,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.9wl41ft15j.css",
       "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2885,7 +3557,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "727"
         },
         {
           "Name": "Content-Type",
@@ -2893,11 +3565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2907,7 +3579,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9wl41ft15j"
         },
         {
           "Name": "label",
@@ -2915,13 +3587,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-b9sayid5wm.gz",
+      "Route": "css/site.9wl41ft15j.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-9wl41ft15j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2930,7 +3602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "354"
         },
         {
           "Name": "Content-Type",
@@ -2938,11 +3610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +3632,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9wl41ft15j"
         },
         {
           "Name": "label",
@@ -2968,18 +3640,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-9wl41ft15j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002816901408"
         }
       ],
       "ResponseHeaders": [
@@ -2989,15 +3661,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "354"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3017,13 +3689,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8="
         }
       ]
     },
@@ -3038,7 +3710,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "727"
         },
         {
           "Name": "Content-Type",
@@ -3046,11 +3718,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3060,13 +3732,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-J2v/TRf8NDTy/4Pp4AvDChtLlvnNEhAnjMx/O8wPov8="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\5gk6kxbn43-9wl41ft15j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3075,7 +3747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "354"
         },
         {
           "Name": "Content-Type",
@@ -3083,11 +3755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 20:59:19 GMT"
+          "Value": "Tue, 06 May 2025 17:23:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3105,7 +3777,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-1q4lxm6gQ4KPcl4zJb2+6DgMtZD8JWTAksN8C8+DA6U="
         }
       ]
     },
@@ -3706,13 +4378,13 @@
       ]
     },
     {
-      "Route": "js/tareas.4duk86qlnc.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Route": "js/tareas.j03r8wjojk.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-j03r8wjojk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002032520325"
+          "Quality": "0.000847457627"
         }
       ],
       "ResponseHeaders": [
@@ -3722,15 +4394,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "491"
+          "Value": "1179"
         },
         {
           "Name": "ETag",
-          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3750,13 +4422,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+          "Value": "W/\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4duk86qlnc"
+          "Value": "j03r8wjojk"
         },
         {
           "Name": "label",
@@ -3764,12 +4436,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
         }
       ]
     },
     {
-      "Route": "js/tareas.4duk86qlnc.js",
+      "Route": "js/tareas.j03r8wjojk.js",
       "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3779,7 +4451,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1393"
+          "Value": "4776"
         },
         {
           "Name": "Content-Type",
@@ -3787,11 +4459,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+          "Value": "\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3801,7 +4473,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4duk86qlnc"
+          "Value": "j03r8wjojk"
         },
         {
           "Name": "label",
@@ -3809,13 +4481,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
         }
       ]
     },
     {
-      "Route": "js/tareas.4duk86qlnc.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "Route": "js/tareas.j03r8wjojk.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-j03r8wjojk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3824,7 +4496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "491"
+          "Value": "1179"
         },
         {
           "Name": "Content-Type",
@@ -3832,11 +4504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3854,7 +4526,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4duk86qlnc"
+          "Value": "j03r8wjojk"
         },
         {
           "Name": "label",
@@ -3862,18 +4534,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI="
+          "Value": "sha256-rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0="
         }
       ]
     },
     {
       "Route": "js/tareas.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-j03r8wjojk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002032520325"
+          "Quality": "0.000847457627"
         }
       ],
       "ResponseHeaders": [
@@ -3883,15 +4555,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "491"
+          "Value": "1179"
         },
         {
           "Name": "ETag",
-          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3911,13 +4583,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+          "Value": "W/\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
         }
       ]
     },
@@ -3932,7 +4604,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1393"
+          "Value": "4776"
         },
         {
           "Name": "Content-Type",
@@ -3940,11 +4612,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0=\""
+          "Value": "\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3954,13 +4626,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SGlKeOcQmlD2KT+9UqBEs7Qc+93Ez8+IjtQ7Q6xg9L0="
+          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
         }
       ]
     },
     {
       "Route": "js/tareas.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-4duk86qlnc.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\fychlf7jyw-j03r8wjojk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3969,7 +4641,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "491"
+          "Value": "1179"
         },
         {
           "Name": "Content-Type",
@@ -3977,11 +4649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI=\""
+          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:24:42 GMT"
+          "Value": "Tue, 06 May 2025 17:54:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3999,18 +4671,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IY9cLzYaj+gYHZvWrUl4zy8HpsigIXOBy2qGm6lPbaI="
+          "Value": "sha256-rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0="
         }
       ]
     },
     {
-      "Route": "js/utilidades.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
+      "Route": "js/utilidades.9dyvseyn2g.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-9dyvseyn2g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004132231405"
+          "Quality": "0.002109704641"
         }
       ],
       "ResponseHeaders": [
@@ -4020,19 +4692,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "241"
+          "Value": "473"
         },
         {
           "Name": "ETag",
-          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
+          "Value": "\"6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4048,18 +4720,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+          "Value": "W/\"vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9dyvseyn2g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utilidades.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
+          "Value": "sha256-vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q="
         }
       ]
     },
     {
-      "Route": "js/utilidades.js",
+      "Route": "js/utilidades.9dyvseyn2g.js",
       "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4069,7 +4749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "1108"
         },
         {
           "Name": "Content-Type",
@@ -4077,121 +4757,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+          "Value": "\"vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.t2uj3teh7v.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004132231405"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t2uj3teh7v"
+          "Value": "9dyvseyn2g"
         },
         {
           "Name": "label",
@@ -4199,13 +4779,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
+          "Value": "sha256-vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q="
         }
       ]
     },
     {
-      "Route": "js/utilidades.t2uj3teh7v.js",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "Route": "js/utilidades.9dyvseyn2g.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-9dyvseyn2g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4214,7 +4794,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "473"
         },
         {
           "Name": "Content-Type",
@@ -4222,56 +4802,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU=\""
+          "Value": "\"6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t2uj3teh7v"
-        },
-        {
-          "Name": "label",
-          "Value": "js/utilidades.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+0kIrwJMmyaaX1EjlKgXz0CSV//O3oDhMSUJ4ys2crU="
-        }
-      ]
-    },
-    {
-      "Route": "js/utilidades.t2uj3teh7v.js.gz",
-      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-t2uj3teh7v.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 22:30:44 GMT"
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4289,7 +4824,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t2uj3teh7v"
+          "Value": "9dyvseyn2g"
         },
         {
           "Name": "label",
@@ -4297,7 +4832,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PgFJSo9BETVlR1pKjfFBivekqwZkrrCcZqzDvaRnlNg="
+          "Value": "sha256-6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-9dyvseyn2g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTMDGvNdyc0e9LM9czm85sfQCtPWB4cWi4RecwfJ+3Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/utilidades.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yecpagiy5z-9dyvseyn2g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 17:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6G04sMbbZd66D/tsJuIFF/jJcqNBZaZNFfKBWm27n50="
         }
       ]
     },
@@ -19578,6 +20250,4372 @@
         {
           "Name": "integrity",
           "Value": "sha256-wRqs30CSrwWDvG1bDMUjomAlSqRRTMplLSuLcrgYtHw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.72bi5bmqwh.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\f170r2hv1e-72bi5bmqwh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000144696860"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6910"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72bi5bmqwh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/AUTHORS.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.72bi5bmqwh.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72bi5bmqwh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/AUTHORS.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.72bi5bmqwh.txt.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\f170r2hv1e-72bi5bmqwh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72bi5bmqwh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/AUTHORS.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\f170r2hv1e-72bi5bmqwh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000144696860"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6910"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geZ7JfVsTJq8Wgjrcm1p56Zqjxx7PL9FkxhKiN8dQg8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/AUTHORS.txt.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\f170r2hv1e-72bi5bmqwh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAt/eD+HAq5sLj5f0msgP0/vRlhg8DB5wKneac2Ysyw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\zu7gk83at9-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/external/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/external/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.0i3buxo5is.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\zu7gk83at9-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/external/jquery/jquery.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\zu7gk83at9-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/external/jquery/jquery.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\zu7gk83at9-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_444444_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmTiXil6x3D/CHk8wOFXmTd0pX0pkL7CHEoZGDjDsD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmTiXil6x3D/CHk8wOFXmTd0pX0pkL7CHEoZGDjDsD8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_444444_256x240.ut8nfkxbao.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmTiXil6x3D/CHk8wOFXmTd0pX0pkL7CHEoZGDjDsD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ut8nfkxbao"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_444444_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmTiXil6x3D/CHk8wOFXmTd0pX0pkL7CHEoZGDjDsD8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_555555_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S7SAoCWRIFHhtJUmtILm35bW5c5XoJzAJHB1BymutlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S7SAoCWRIFHhtJUmtILm35bW5c5XoJzAJHB1BymutlY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_555555_256x240.xxblgf7gh6.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S7SAoCWRIFHhtJUmtILm35bW5c5XoJzAJHB1BymutlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxblgf7gh6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_555555_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S7SAoCWRIFHhtJUmtILm35bW5c5XoJzAJHB1BymutlY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_777620_256x240.ibfjxm80uw.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"stIDtevUl3/YDzzX50pmD1KUQ5Ygr4Qf1mcAXth5i9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibfjxm80uw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_777620_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-stIDtevUl3/YDzzX50pmD1KUQ5Ygr4Qf1mcAXth5i9Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_777620_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"stIDtevUl3/YDzzX50pmD1KUQ5Ygr4Qf1mcAXth5i9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-stIDtevUl3/YDzzX50pmD1KUQ5Ygr4Qf1mcAXth5i9Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_777777_256x240.9pllrf5noz.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/cVCTlwyRuiyvZ9ZyZ5+tnUcgBBFx88uhJdE+TO1tc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9pllrf5noz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_777777_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/cVCTlwyRuiyvZ9ZyZ5+tnUcgBBFx88uhJdE+TO1tc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_777777_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/cVCTlwyRuiyvZ9ZyZ5+tnUcgBBFx88uhJdE+TO1tc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/cVCTlwyRuiyvZ9ZyZ5+tnUcgBBFx88uhJdE+TO1tc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_cc0000_256x240.fapn45i1fp.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/fMbNPyGm4e1pbDDczRJW+nARxbL/1UQoUTrE8EuoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fapn45i1fp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_cc0000_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/fMbNPyGm4e1pbDDczRJW+nARxbL/1UQoUTrE8EuoA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_cc0000_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/fMbNPyGm4e1pbDDczRJW+nARxbL/1UQoUTrE8EuoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/fMbNPyGm4e1pbDDczRJW+nARxbL/1UQoUTrE8EuoA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_ffffff_256x240.l6as84sroo.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTrat+ojs+EgNdn8x2+3nTJNFGErS5NQQTo4b/semhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l6as84sroo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/images/ui-icons_ffffff_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTrat+ojs+EgNdn8x2+3nTJNFGErS5NQQTo4b/semhM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/images/ui-icons_ffffff_256x240.png",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTrat+ojs+EgNdn8x2+3nTJNFGErS5NQQTo4b/semhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTrat+ojs+EgNdn8x2+3nTJNFGErS5NQQTo4b/semhM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.2jvjnlz339.html",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4hjrvm41cv-2jvjnlz339.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211327134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jvjnlz339"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.2jvjnlz339.html",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jvjnlz339"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.2jvjnlz339.html.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4hjrvm41cv-2jvjnlz339.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jvjnlz339"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.html",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4hjrvm41cv-2jvjnlz339.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211327134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.html",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ov7jFgQJzsGSk406OqyIQB3KNGoStimEZIdOr31IRGA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/index.html.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\4hjrvm41cv-2jvjnlz339.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuUOgjV0su2gOi4yt6GuY4xSg9dVGRg41/aQsEjoXU0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.3de1nhugwi.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\tuls9r0zjq-3de1nhugwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008051724"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124196"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3de1nhugwi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.3de1nhugwi.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3de1nhugwi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.3de1nhugwi.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\tuls9r0zjq-3de1nhugwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3de1nhugwi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\mc78zdeeyw-nr5zftr3vh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000118708452"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\mc78zdeeyw-nr5zftr3vh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\tuls9r0zjq-3de1nhugwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008051724"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124196"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9zljDKpE/mQxmaR4V2cGVaQ7arF3CcXxarvgr7Sj8Uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\tuls9r0zjq-3de1nhugwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNfGLFeQBfe8TTKGUDl4izLH9XH8ESfdky2KZtrNSIY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\y2ivvo2u7e-xlfsqd798a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000129349373"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7730"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\y2ivvo2u7e-xlfsqd798a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.if5udyg90s.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\ft63vn7281-if5udyg90s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014870110"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "if5udyg90s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.if5udyg90s.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "if5udyg90s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.if5udyg90s.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\ft63vn7281-if5udyg90s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "if5udyg90s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\ft63vn7281-if5udyg90s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014870110"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.js",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.js.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\ft63vn7281-if5udyg90s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnuQIDzlyQfRoEYHx9cuoXl99QAjtGCwJ+6El2govNY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.xlfsqd798a.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\y2ivvo2u7e-xlfsqd798a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000129349373"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7730"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlfsqd798a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.xlfsqd798a.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlfsqd798a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZzC0trQoV17OTuLkPiMVQ8mYf05J/hEN+ls36embMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.min.xlfsqd798a.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\y2ivvo2u7e-xlfsqd798a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlfsqd798a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-URpuYwigh0gHhDJ5bCDf22YGjJazZ57eqQSf9RWCZB8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.nr5zftr3vh.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\mc78zdeeyw-nr5zftr3vh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000118708452"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nr5zftr3vh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.nr5zftr3vh.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nr5zftr3vh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83pSirg3po0U8iicAqzItE9Ei7Ke+Y926v/NWwaq+xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.nr5zftr3vh.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\mc78zdeeyw-nr5zftr3vh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nr5zftr3vh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRLUmMmj7nIb7j+7UOITJyoMhEZCNNyPziYcSHRwwOQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g58hysslzr-xmuqfn50qh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000187055743"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g58hysslzr-xmuqfn50qh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.0avc6en0p3.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g98zedj86f-0avc6en0p3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000205888408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4856"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0avc6en0p3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.0avc6en0p3.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0avc6en0p3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.0avc6en0p3.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g98zedj86f-0avc6en0p3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0avc6en0p3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g98zedj86f-0avc6en0p3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000205888408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4856"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFe3Ac5JObwyT2ZhpqVZOTTiUy0J/TchbEH/9VuNaWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.min.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g98zedj86f-0avc6en0p3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HwvpzzHcz110v1DdssA1lRQKYFHyx/KDBk5/0OVqQYg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.xmuqfn50qh.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g58hysslzr-xmuqfn50qh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000187055743"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmuqfn50qh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.xmuqfn50qh.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmuqfn50qh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2eOPbnIw179GsUMSPP9kSieuFr1DuLyvAfZcmTngho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.structure.xmuqfn50qh.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\g58hysslzr-xmuqfn50qh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmuqfn50qh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.structure.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T28QjuVCAFY4MuKrnXlq4E/mdTajvUZ5mroTByrTqok="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\9na5au9k8p-s0k6h7qcks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000299580587"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\9na5au9k8p-s0k6h7qcks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.8kjarcocxj.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yobqfdnxvu-8kjarcocxj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000432152118"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kjarcocxj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.8kjarcocxj.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kjarcocxj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.8kjarcocxj.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yobqfdnxvu-8kjarcocxj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kjarcocxj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yobqfdnxvu-8kjarcocxj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000432152118"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFOzUgdhGLmqPH32Z1JdslFUpfivdPRTBd1MzTVGEks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.min.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\yobqfdnxvu-8kjarcocxj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GbN1kPEwdsyM5a27/bu798EAIaJEjCIER65Kzy/+gy4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.s0k6h7qcks.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\9na5au9k8p-s0k6h7qcks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000299580587"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0k6h7qcks"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.s0k6h7qcks.css",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0k6h7qcks"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIhmxvw5Wi3vZ1oSuOWNGzYHUe286tslxK1LOGrVYeY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/jquery-ui.theme.s0k6h7qcks.css.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\9na5au9k8p-s0k6h7qcks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0k6h7qcks"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/jquery-ui.theme.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LJIT524y1KgIeXwUV+gq1h9jQt8TvDiRUS/a0FoPFmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.mtq9ih5pls.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\k7ayp1cngy-mtq9ih5pls.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000971817298"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1028"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtq9ih5pls"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.mtq9ih5pls.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtq9ih5pls"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.mtq9ih5pls.txt.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\k7ayp1cngy-mtq9ih5pls.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtq9ih5pls"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/LICENSE.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\k7ayp1cngy-mtq9ih5pls.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000971817298"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1028"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kkCXPZcjc2FiLCTeIO6elK9ttNRKUZKNqFgLrACUPE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/LICENSE.txt.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\k7ayp1cngy-mtq9ih5pls.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUhj8Npv3Z0X1ZL8hV4BIqmHXMy4ACnuk+1nFOR+6yI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\pu4h4a42g8-qaocao8vyd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001119820829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.json.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\pu4h4a42g8-qaocao8vyd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.qaocao8vyd.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\pu4h4a42g8-qaocao8vyd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001119820829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qaocao8vyd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.qaocao8vyd.json",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\jquery-ui\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qaocao8vyd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvCATruWzbwY7NsfzcUR2WqPjslGO8M7hHzTj1AYDQY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ui/package.qaocao8vyd.json.gz",
+      "AssetFile": "C:\\Users\\Andrew\\source\\repos\\TareasMVC\\TareasMVC\\obj\\Debug\\net9.0\\compressed\\pu4h4a42g8-qaocao8vyd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qaocao8vyd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ui/package.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p7VZGtz8dK4q9DFyFgCVokW8GqoQApOQIZC7H1pC74A="
         }
       ]
     },
