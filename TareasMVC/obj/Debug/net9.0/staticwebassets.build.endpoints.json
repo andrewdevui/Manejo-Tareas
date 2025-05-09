@@ -897,6 +897,304 @@
       ]
     },
     {
+      "Route": "js/pasos.js",
+      "AssetFile": "js/pasos.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY="
+        }
+      ]
+    },
+    {
+      "Route": "js/pasos.js",
+      "AssetFile": "js/pasos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY="
+        }
+      ]
+    },
+    {
+      "Route": "js/pasos.js.gz",
+      "AssetFile": "js/pasos.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/pasos.o36tsop2tm.js",
+      "AssetFile": "js/pasos.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o36tsop2tm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY="
+        },
+        {
+          "Name": "label",
+          "Value": "js/pasos.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/pasos.o36tsop2tm.js",
+      "AssetFile": "js/pasos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o36tsop2tm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3C/EOdlleV+oKUEFNCx1C+5VaakvXwVcj4aS6rrwrIY="
+        },
+        {
+          "Name": "label",
+          "Value": "js/pasos.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/pasos.o36tsop2tm.js.gz",
+      "AssetFile": "js/pasos.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 00:37:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o36tsop2tm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4UU9bRqOKUzKNbMBOEilX4FHXRXikUje6dHnUeuJEfQ="
+        },
+        {
+          "Name": "label",
+          "Value": "js/pasos.js.gz"
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js.gz",
       "Selectors": [
@@ -1195,167 +1493,6 @@
       ]
     },
     {
-      "Route": "js/tareas.j03r8wjojk.js",
-      "AssetFile": "js/tareas.js.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000847457627"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1179"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j03r8wjojk"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
-        },
-        {
-          "Name": "label",
-          "Value": "js/tareas.js"
-        }
-      ]
-    },
-    {
-      "Route": "js/tareas.j03r8wjojk.js",
-      "AssetFile": "js/tareas.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4776"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j03r8wjojk"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
-        },
-        {
-          "Name": "label",
-          "Value": "js/tareas.js"
-        }
-      ]
-    },
-    {
-      "Route": "js/tareas.j03r8wjojk.js.gz",
-      "AssetFile": "js/tareas.js.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1179"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j03r8wjojk"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0="
-        },
-        {
-          "Name": "label",
-          "Value": "js/tareas.js.gz"
-        }
-      ]
-    },
-    {
       "Route": "js/tareas.js",
       "AssetFile": "js/tareas.js.gz",
       "Selectors": [
@@ -1388,15 +1525,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
+          "Value": "\"gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
+          "Value": "W/\"MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
         },
         {
           "Name": "Vary",
@@ -1406,7 +1543,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
+          "Value": "sha256-MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc="
         }
       ]
     },
@@ -1425,7 +1562,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4776"
+          "Value": "4778"
         },
         {
           "Name": "Content-Type",
@@ -1433,17 +1570,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ=\""
+          "Value": "\"MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AwAcwgE9+6F5d2QFJ5KDF+2JgZR4knoHS/fLqqYKGgQ="
+          "Value": "sha256-MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc="
         }
       ]
     },
@@ -1474,11 +1611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0=\""
+          "Value": "\"gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:54:01 GMT"
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
         },
         {
           "Name": "Vary",
@@ -1488,7 +1625,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rCjYcfqUkL2gTvRhvvVl5UYY2f5fFeJa2OnyagsdH+0="
+          "Value": "sha256-gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs="
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.pua5ysopj0.js",
+      "AssetFile": "js/tareas.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000847457627"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pua5ysopj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc="
+        },
+        {
+          "Name": "label",
+          "Value": "js/tareas.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.pua5ysopj0.js",
+      "AssetFile": "js/tareas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pua5ysopj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdhFCiL77KUh2e1KQy4S5CXJtvAGNBQdbtF/UmtmBmc="
+        },
+        {
+          "Name": "label",
+          "Value": "js/tareas.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/tareas.pua5ysopj0.js.gz",
+      "AssetFile": "js/tareas.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 18:17:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pua5ysopj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gGCAlb3h4k3dFbRhXraU2n+odpWt4GaFa98sZVhSOBs="
+        },
+        {
+          "Name": "label",
+          "Value": "js/tareas.js.gz"
         }
       ]
     },

@@ -37,6 +37,7 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\js\b
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\js\pasos.js
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
@@ -77,6 +78,7 @@ C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\jquery\dist\jquery.
 C:\Users\Andrew\source\repos\TareasMVC\TareasMVC\wwwroot\lib\jquery-ui\external\jquery\jquery.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\pasos.js
 wwwroot\js\site.js
 wwwroot\js\tareas.js
 wwwroot\js\utilidades.js
