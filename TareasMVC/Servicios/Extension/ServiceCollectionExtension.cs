@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Razor;
 using TareasMVC.Servicios;
+using System.Text.Json.Serialization;
 
 namespace TareasMVC.Services.Extension
 {
@@ -24,6 +25,9 @@ namespace TareasMVC.Services.Extension
             .AddDataAnnotationsLocalization(opciones =>
             {
                 opciones.DataAnnotationLocalizerProvider = (_, factoria) => factoria.Create(typeof(RecursoCompartido));
+            }).AddJsonOptions(opciones =>
+            {
+                opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
             });
 
             services.AddDbContext<AplicationDbContext>(options =>

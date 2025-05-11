@@ -108,6 +108,14 @@ async function manejarClickTarea(tarea) {
     tareaEditarViewModel.titulo(json.titulo);
     tareaEditarViewModel.descripcion(json.descripcion);
 
+    tareaEditarViewModel.pasos([]);
+
+    json.pasos.forEach(paso => {
+        tareaEditarViewModel.pasos.push(
+            new pasoViewModel({ ...paso, modoEdicion: false })
+        )
+    })
+
     modalEditarTareaBootstrap.show();
 }
 
@@ -139,11 +147,11 @@ async function editarTareaCompleta(tarea) {
         },
         body: data
     });
-    if (!respuesta.ok) {        
+    if (!respuesta.ok) {
         manejarErrorApi(respuesta);
         throw "error";
-    } 
-    
+    }
+
 }
 
 function intentarBorrarTarea(tarea) {
