@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7rp44gcxvm</Fingerprint>
-      <Integrity>neDpiQXHqw2mt6CkJbFILsyk5Hm6xr7EucD9LjoYBA0=</Integrity>
+      <Fingerprint>fstidtu7sk</Fingerprint>
+      <Integrity>sTddqVBOuI7EXCZt87a7a+hWcdkJm6cLzQEtqLiFQ64=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\pasos.js'))</OriginalItemSpec>
@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>w08tdjju41</Fingerprint>
-      <Integrity>ICnSOwpBU1js8r0NRk8B4MNjPdz4048k/zZPMoUu2so=</Integrity>
+      <Fingerprint>bevo56ojhh</Fingerprint>
+      <Integrity>DQ4Rn6tAQ5zZLAd9e4IcO/nszgh79I6bkqVsGGf6xdU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tareas.js'))</OriginalItemSpec>
